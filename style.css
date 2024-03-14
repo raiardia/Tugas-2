@@ -1,0 +1,65 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+header {
+    background-color:aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:rgb(78, 10, 20);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: lightpink;
+    padding: 10px;
+    text-align: center;
+}
+
+#biodata {
+    background-color: rgb(255, 247, 172);
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#pendidikan {
+    background-color: rgb(255, 247, 172);
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#skills {
+    background-color: rgb(255, 247, 172);
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+
+section {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 15px 0;
+    box-shadow: 0 0 5px #aaa;
+}
